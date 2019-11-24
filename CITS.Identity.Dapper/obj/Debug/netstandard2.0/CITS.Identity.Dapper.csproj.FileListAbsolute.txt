@@ -1,0 +1,8 @@
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\bin\Debug\netstandard2.0\CITS.Identity.Dapper.deps.json
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\bin\Debug\netstandard2.0\CITS.Identity.Dapper.dll
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\bin\Debug\netstandard2.0\CITS.Identity.Dapper.pdb
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\obj\Debug\netstandard2.0\CITS.Identity.Dapper.AssemblyInfoInputs.cache
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\obj\Debug\netstandard2.0\CITS.Identity.Dapper.AssemblyInfo.cs
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\obj\Debug\netstandard2.0\CITS.Identity.Dapper.dll
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\obj\Debug\netstandard2.0\CITS.Identity.Dapper.pdb
+G:\DEW\cits.identity.dapper\CITS.Identity.Dapper\obj\Debug\netstandard2.0\CITS.Identity.Dapper.csprojAssemblyReference.cache
